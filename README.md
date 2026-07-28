@@ -8,9 +8,6 @@ Data Analytics Portfolio
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-
-<img width="729" height="534" alt="Screenshot 2026-07-14 at 18 00 51" src="https://github.com/user-attachments/assets/d3ef9b52-5143-489f-9239-d7fe945d098b" />
-
 ---
 
 ## 📋 Description
