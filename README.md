@@ -9,7 +9,7 @@ Data Analytics Portfolio
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
-(Screenshot 2026-07-14 at 18.00.51.png)
+
 ## 📋 Description
 
 This project delivers an end-to-end Power BI analysis of sales performance across a chocolate manufacturing company. The dashboard consolidates raw sales records into a clean, interactive reporting layer that allows stakeholders to explore revenue, profitability, and customer behavior at a glance.
