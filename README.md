@@ -7,7 +7,7 @@ Data Analytics Portfolio
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-https://github.com/ruhaifa114-sys/ruhaifasdataportfolio/blob/190f4f8c3558720ea42860805ae7b3d4d6d7c54a/Screenshot%202026-07-14%20at%2018.00.51.png
+
 ---
 
 ## 📋 Description
